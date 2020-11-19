@@ -11,3 +11,6 @@
 ## Prática #4 - Use a tag `includeAll` para incluir todos os `changlogs` de uma pasta
 
 ## Prática #5 - Limpe seus `changelogs`
+
+
+Referência: https://learn.liquibase.com/unit/view/id:2168
